@@ -1,0 +1,82 @@
+body {
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 20px; 
+    Background-color : #f1e2ce;
+    
+   
+
+}
+h1{
+    font-family: 'Staatliches', cursive;
+    color: white ;
+    text-align:center;
+    line-height: 34%;
+    font-size: 30px;
+}
+h4{
+    color: white;
+    text-align:center;
+    
+}
+img{
+  width: 20%;
+}
+.imag{
+    width: 10%;  
+    height: 50px;
+    width: 1300px;
+    text-align: center;
+}
+
+.forma-ficha{
+    font-family:'Alkatra', cursive;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: rgba(243, 120, 75, 0.884);
+    width: min(30rem, 100%); 
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+.campo_text{
+    border-radius:9px; 
+    background-color:#a0f1fc;
+}
+.campo_select{
+    border-radius:9px; 
+    background-color:#a0f1fc;
+}
+
+.boton-enviar {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    font-weight: 250;
+    font-size: 15px;
+    color:#ffffff;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color:#152bee;
+    border-color: #d8d8d8;
+    border-width: 1px;
+    border-style: solid;
+    border-radius:15px;
+}
+.contenedor{
+    background: rgba(0, 0, 0, .6);
+    width: 90%;
+    max-width: 650px;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 3px;
+}
+.campo_eti{
+    display: block;
+    position: relative;
+    
+}
